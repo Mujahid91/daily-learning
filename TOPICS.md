@@ -5,7 +5,7 @@ One topic per day, in order. A finished topic is marked `[x]` with its entry fil
 ## Part 1: Test automation foundations
 - [x] Locators: XPath vs CSS selectors (2026-11-14-xpath-vs-css-selectors.md)
 - [x] Explicit, implicit and fluent waits in Selenium (2026-11-15-selenium-waits.md)
-- [ ] Page Object Model: structure and common mistakes
+- [x] Page Object Model: structure and common mistakes (2026-11-16-page-object-model.md)
 - [ ] Page Factory vs plain Page Objects
 - [ ] Handling alerts, frames and multiple windows
 - [ ] Actions class: hover, drag and drop, keyboard events

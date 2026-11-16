@@ -10,3 +10,4 @@ The full plan is in [TOPICS.md](TOPICS.md).
 
 - 2026-11-14: [Locators: XPath vs CSS selectors](entries/2026-11-14-xpath-vs-css-selectors.md)
 - 2026-11-15: [Explicit, implicit and fluent waits in Selenium](entries/2026-11-15-selenium-waits.md)
+- 2026-11-16: [Page Object Model: structure and common mistakes](entries/2026-11-16-page-object-model.md)
